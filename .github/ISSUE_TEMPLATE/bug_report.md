@@ -1,10 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
 ### Expected Behaviour
@@ -25,20 +24,18 @@ assignees: ''
 
 Here is the output:
 
-
 #### Plugin version
 
-    cordova plugin version | grep cordova-plugin-file-opener2
+    cordova plugin version | grep @theankur/cordova-plugin-file-opener2
 
 Here is the output:
-
 
 #### Sample Code that illustrates the problem
 
 #### Logs taken while reproducing problem
-Run 
 
-`adb logcat PluginManager:V CordovaPlugin:V CordovaLog:V chromium:V *:S` 
+Run
+
+`adb logcat PluginManager:V CordovaPlugin:V CordovaLog:V chromium:V *:S`
 
 while testing the bug in your app to get some output from your error. This will help you to understand more about the nature of your problem.
-
