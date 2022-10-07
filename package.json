@@ -1,6 +1,6 @@
 {
   "name": "@theankur/cordova-plugin-file-opener2",
-  "version": "1.0.0-rc",
+  "version": "1.0.0",
   "description": "A File Opener Plugin for Cordova. (The Original Version)",
   "cordova": {
     "id": "@theankur/cordova-plugin-file-opener2",
